@@ -18,6 +18,9 @@ the QnABot solution.
 
 ![Solution architecture and data flow](image2.png)
 
+![Solution architecture and data flow](architecture.png)
+
+
 When you ask QnABot a question, a few things happen:
 
 1. The question gets processed and transcribed by Amazon Lex using a Natural Language Understanding (NLU) and Processing (NLP) engine.
